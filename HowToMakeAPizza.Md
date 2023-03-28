@@ -8,3 +8,5 @@ los pasos para hacer una pizza son:
 7. Hornea la pizza en un horno precalentado a 220°C durante 15-20 minutos o hasta que la corteza esté dorada y crujiente.
 8. Saca la pizza del horno y deja que se enfríe un poco antes de cortarla en porciones y servirla.
 ¡Disfruta de tu deliciosa pizza casera!
+9. se empaca la pizza en la caja y lista para llevarla.
+
