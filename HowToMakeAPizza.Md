@@ -1,13 +1,16 @@
-1. los pasos para hacer una pizza son:
-2. comprar los ingredientes para su preparacion y porcionar
-3. Prepara la masa: Mezcla 3 tazas de harina, 1 taza de agua tibia, 2 cucharadas de aceite de oliva, 2 cucharaditas de levadura, 1 cucharadita de sal y 1 cucharadita de azúcar. Amasa bien y deja reposar durante 30 minutos.
-4. Haz la salsa: Tritura 4 tomates maduros, 2 dientes de ajo, 1 cucharadita de orégano, sal y pimienta al gusto en una licuadora.
-5. Prepara los ingredientes: Corta la mozzarella en cubos, pica los champiñones, el jamón y las aceitunas.
-6. Extiende la masa de pizza con un rodillo y colócala en una bandeja para hornear.
-7. Agrega la salsa de tomate a la masa de pizza y distribúyela uniformemente.
-. Espolvorea la mozzarella sobre la salsa y agrega los demás ingredientes encima.
-8. Hornea la pizza en un horno precalentado a 220°C durante 15-20 minutos o hasta que la corteza esté dorada y crujiente.
-9. Saca la pizza del horno y deja que se enfríe un poco antes de cortarla en porciones y servirla.
-¡Disfruta de tu deliciosa pizza casera!
-9. se empaca la pizza en la caja y lista para llevarla.
-
+1. Se compran los ingredientes para la pizza:
+2. 250g de masa para pizza
+3. 100g de chorizo.
+4. 100g de jamón de pavo
+5. 100g de queso
+6. Un cuarto de cebolla blanca
+7. Cinco cucharadas de puré de jitomate.
+8. Medio aguacate.
+9. Dos cucharadas de chiles jalapeños en escabeche y sal.
+10. Se comienza a extender la masa para pizza, le damos la forma redondeada y la colocamos sobre un papel antiadherente.
+11. Picamos le chorizo, cortamos el jamón en cubitos y los esparcimos sobre la pizza.
+12. Cortamos la cebolla en julianas que colocamos sobre el jamón y el chorizo.
+13. Deshebramos el queso y lo colocamos sobre toda la pizza.
+14. Para terminar cortamos el medio aguacate en julianas que colocamos sobre todos los demás ingredientes. Terminamos con el chile en escabeche.
+15. Ponemos la pizza en el horno caliente, a 180ºC aproximadamente, por unos 25 minutos o hasta que quede bien crujiente y el queso gratinado.
+16. Bon Appétit!
