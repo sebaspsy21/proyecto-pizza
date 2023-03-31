@@ -1,3 +1,5 @@
+Ingredientes.
+
 1. Se compran los ingredientes para la pizza:
 2. 250g de masa para pizza
 3. 100g de chorizo.
